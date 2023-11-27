@@ -61,7 +61,7 @@ const Resume = () => {
 
                                 <div className="timeline-header">
                                     <h3>Web & Digital Content Manager</h3>
-                                    <p>November 2018 - June 2021</p>
+                                    <p>November 2018 - June 2022</p>
                                 </div>
 
                                 <div className="timeline-content">
